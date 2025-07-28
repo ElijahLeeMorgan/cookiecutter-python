@@ -28,7 +28,7 @@ To share new tools, configs, and updates with all child repos update this templa
 * TODO - Make an external prompts repository to host all of my template prompts.
   * Pull and write prompts during the pre_gen_project.sh script.
   * Do the same for MCP servers.
-* TODO - 
+* TODO - Remove project-slug, just leave it all in the root workspace folder.
 * TODO - 
 
 <!--
